@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+table {
+    display: inline-block;
+}
+th {
+    width: 800px;
+}
+footer {
+    font-family: Verdana;
+    text-align: right;
+    margin-top: 150px;
+}
+footer p {
+    margin: 0;
+}
+footer span {
+    margin-right: 13px;
+}
